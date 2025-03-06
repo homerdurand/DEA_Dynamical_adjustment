@@ -25,11 +25,11 @@ This repository contains code for performing Direct Effect Analysis (DEA) to sep
 
 | Metric                   | Value    |
 |--------------------------|---------|
-| Trends R²               | 0.249565 |
-| Trends Correlation      | 0.595923 |
-| Correct Trend Sign      | 0.691551 |
-| Time Series R²         | 0.820476 |
-| Time Series Correlation | 0.912932 |
+| Trends R²               | 0.339865 |
+| Trends Correlation      | 0.636125 |
+| Correct Trend Sign      | 0.730985 |
+| Time Series R²         | 0.833537 |
+| Time Series Correlation | 0.918909 |
 
 ![Trends Map - 1300](figure/trends_map_1300.png)
 
@@ -37,11 +37,11 @@ This repository contains code for performing Direct Effect Analysis (DEA) to sep
 
 | Metric                   | Value    |
 |--------------------------|---------|
-| Trends R²               | -0.181520 |
-| Trends Correlation      | 0.453693 |
-| Correct Trend Sign      | 0.570767 |
-| Time Series R²         | 0.834277 |
-| Time Series Correlation | 0.917896 |
+| Trends R²               | -0.090225 |
+| Trends Correlation      | 0.426897 |
+| Correct Trend Sign      | 0.631448 |
+| Time Series R²         | 0.838760 |
+| Time Series Correlation | 0.920476 |
 
 ![Trends Map - 1400](figure/trends_map_1400.png)
 
@@ -49,10 +49,10 @@ This repository contains code for performing Direct Effect Analysis (DEA) to sep
 
 | Metric                   | Value    |
 |--------------------------|---------|
-| Trends R²               | 0.249565 |
-| Trends Correlation      | 0.595923 |
-| Correct Trend Sign      | 0.691551 |
-| Time Series R²         | 0.820476 |
-| Time Series Correlation | 0.912932 |
+| Trends R²               | 0.076695 |
+| Trends Correlation      | 0.528368 |
+| Correct Trend Sign      | 0.673280 |
+| Time Series R²         | 0.853456 |
+| Time Series Correlation | 0.927744 |
 
 ![Trends Map - 1500](figure/trends_map_1500.png)
