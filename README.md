@@ -18,7 +18,7 @@ This repository contains code for performing Direct Effect Analysis (DEA) to sep
   - Use `counterfactual(Y, Z_counterfactual)` to estimate counterfactual values of `Y` given factual `Y` and counterfactual external forcing (`Z_counterfactual`). The method outputs thermodynamical and dynamical components, whose sum provides a counterfactual estimate of `Y`.
 
  - **`DEA_axriv.pdf`**
-     Paer in revision.
+     Paper in revision.
 
 ---
 
